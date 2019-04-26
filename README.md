@@ -2,9 +2,9 @@
 
 NPM package which lists legal entity types by country.
 
-## Getting started
+**Version**: `v1.0.0-alpha`
 
-**Installation**
+## Installation
 
 NPM
 
@@ -18,7 +18,7 @@ Yarn
 yarn add legal-entity-types
 ```
 
-**Usage**
+## Usage
 
 ```javascript
 const entities = require('legal-entity-types');
